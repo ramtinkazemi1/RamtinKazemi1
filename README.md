@@ -6,8 +6,8 @@
 </p>
 
 <h3 align="center"><a href="https://github.com/ramtinkazemi1/Resume" style="text-decoration: none;"><span style="color: red; font-weight: bold;">Resume</span></a></h3>
-
-
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -29,6 +29,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy having ketchup on top of my pizza and no sauce on the bottom! 🍕🍅
 
+<br>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.oracle.com/java/">
@@ -58,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinkazemi1&layout=compact&langs_count=10" alt="Top Languages">
 </p>
 
-
+<br>
 <div align="center">
   <h3 align="center">Trophies</h3>
   <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
