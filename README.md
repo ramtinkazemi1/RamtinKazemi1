@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-Custom%20Badge-darkgreen)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
+  <h3 align="center">Looking for entry-level software engineering positions</h3>
+</p>
 
 
 <p align="center">
