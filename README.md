@@ -57,8 +57,9 @@
     <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" width="50" height="50">
   </a>
   <a href="https://www.postgresql.org/">
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="50" height="50">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
   </a>
+
 </p>
 
 
