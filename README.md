@@ -29,7 +29,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy having ketchup on top of my pizza and no sauce on the bottom! 🍕🍅
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.oracle.com/java/">
     <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
@@ -60,6 +60,7 @@
 
 
 <div align="center">
+  <h3 align="center">Trophies</h3>
   <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
     <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
   </a>
