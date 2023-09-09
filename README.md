@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views" style="background-color: darkgreen; color: white;">
   <h3 align="center">Looking for entry-level software engineering positions</h3>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
