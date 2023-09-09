@@ -7,7 +7,6 @@
 
 <h3 align="center"><a href="https://github.com/ramtinkazemi1/Resume" style="text-decoration: none;"><span style="color: red; font-weight: bold;">Resume</span></a></h3>
 <br>
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
