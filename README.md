@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
 <h3 align="center">Looking for entry-level software engineering positions</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C5603AQE4qMbfVFfigQ/profile-displayphoto-shrink_800_800/0/1652123418544?e=2147483647&v=beta&t=SQP6P9CnxRTuGA_RDevJUgohCEl6lPX0dzHK0uoVsP0" alt="Your Name" width="100" height="100">
+  <img src="https://media.licdn.com/dms/image/C5603AQE4qMbfVFfigQ/profile-displayphoto-shrink_800_800/0/1652123418544?e=2147483647&v=beta&t=SQP6P9CnxRTuGA_RDevJUgohCEl6lPX0dzHK0uoVsP0" alt="Your Name" width="200" height="200">
 </p>
 
 <p align="center">
