@@ -5,7 +5,8 @@
   <h3 align="center">Looking for entry-level software engineering positions</h3>
 </p>
 
-<h3 align="center"><a href="https://github.com/ramtinkazemi1/Resume" style="text-decoration: none; font-weight: bold; color: red;">Resume</a></h3>
+<h3 align="center"><a href="https://github.com/ramtinkazemi1/Resume" style="text-decoration: none;"><span style="color: red; font-weight: bold;">Resume</span></a></h3>
+
 
 
 <p align="center">
