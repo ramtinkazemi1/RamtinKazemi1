@@ -29,12 +29,27 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
-  <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50">
-  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" width="50" height="50">
-  <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" width="50" height="50">
-  <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="50" height="50">
-  <img src="https://img.icons8.com/color/50/000000/sql.png" alt="SQL" width="50" height="50">
-  <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="50" height="50">
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.icons8.com/color/50/000000/python.png" alt="Python" width="50" height="50">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" width="50" height="50">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" width="50" height="50">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="50" height="50">
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://img.icons8.com/color/50/000000/sql.png" alt="SQL" width="50" height="50">
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="50" height="50">
+  </a>
 </p>
+
 
