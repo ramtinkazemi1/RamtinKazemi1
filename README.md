@@ -54,3 +54,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinkazemi1&layout=compact&langs_count=10" alt="Top Languages">
 </p>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
+</p>
+
