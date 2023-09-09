@@ -49,6 +49,7 @@
     <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="50" height="50">
   </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinkazemi1&layout=compact&langs_count=10" alt="Top Languages">
 </p>
