@@ -54,5 +54,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinkazemi1&layout=compact&langs_count=10" alt="Top Languages">
 </p>
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub" alt="Trophy" />
+  </a>
+</div>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ramtinkazemi1&theme=darkhub)
