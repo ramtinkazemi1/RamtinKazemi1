@@ -53,7 +53,14 @@
   <a href="https://git-scm.com/doc">
     <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="50" height="50">
   </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django" width="50" height="50">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.icons8.com/color/50/000000/postgresql.png" alt="PostgreSQL" width="50" height="50">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramtinkazemi1&layout=compact&langs_count=10" alt="Top Languages">
