@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-blue">
   <img src="https://img.shields.io/badge/HTML5-Intermediate-blue">
 </p>
+<br>
 
 - 🔭 I’m currently working on enhancing my coding skills and building real-world software projects to showcase my abilities to potential employers.
 - 🌱 I’m currently learning Django and Microsoft Azure.
