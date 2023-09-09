@@ -1,18 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
-<h3 align="center">Looking for entry-level software engineering positions</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/C5603AQE4qMbfVFfigQ/profile-displayphoto-shrink_800_800/0/1652123418544?e=2147483647&v=beta&t=SQP6P9CnxRTuGA_RDevJUgohCEl6lPX0dzHK0uoVsP0" alt="Your Name" width="200" height="200">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
-  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange">
-</p>
+<h3 align="center">Looking for entry-level software engineering positions</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -51,5 +43,3 @@
     <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="50" height="50">
   </a>
 </p>
-
-
