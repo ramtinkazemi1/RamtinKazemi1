@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
-  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange">
   <img src="https://img.shields.io/badge/Java-Advanced-green">
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-blue">
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-blue">
 </p>
 
 - 🔭 I’m currently working on enhancing my coding skills and building real-world software projects to showcase my abilities to potential employers.
