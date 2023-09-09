@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
 </p>
 
@@ -8,6 +8,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow">
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange">
 </p>
 
 - 🔭 I’m currently working on enhancing my coding skills and building real-world software projects to showcase my abilities to potential employers.
