@@ -2,9 +2,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
+  <h3 align="center">Looking for entry-level software engineering positions</h3>
 </p>
 
-<h3 align="center">Looking for entry-level software engineering positions</h3>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramtinkazemi1&show_icons=true&theme=dark" alt="GitHub Stats">
