@@ -1,7 +1,3 @@
-<!-- <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1> -->
-<div align="center">
-  <h1 id="animated-text">Hi there 👋, I'm Ramtin Kazemi</h1>
-</div>
 <style>
   @keyframes textAnimation {
     0% { transform: scale(1); opacity: 0; }
@@ -13,6 +9,10 @@
     animation: textAnimation 3s ease-in-out infinite;
   }
 </style>
+<div align="center">
+  <h1 id="animated-text">Hi there 👋, I'm Ramtin Kazemi</h1>
+</div>
+
 
 
 <p align="left">
