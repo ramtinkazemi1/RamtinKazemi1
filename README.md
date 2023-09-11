@@ -1,20 +1,4 @@
-<style>
-  @keyframes textAnimation {
-    0% { transform: scale(1); opacity: 0; }
-    50% { transform: scale(1.1); opacity: 1; }
-    100% { transform: scale(1); opacity: 0; }
-  }
-
-  #animated-text {
-    animation: textAnimation 3s ease-in-out infinite;
-  }
-</style>
-<div align="center">
-  <h1 id="animated-text">Hi there 👋, I'm Ramtin Kazemi</h1>
-</div>
-
-
-
+<h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
   <h3 align="center">Looking for entry-level software engineering positions</h3>
