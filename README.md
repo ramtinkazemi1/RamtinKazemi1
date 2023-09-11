@@ -1,4 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1>
+<!-- <h1 align="center">Hi there 👋, I'm Ramtin Kazemi</h1> -->
+<div align="center">
+  <h1 id="animated-text">Hi there 👋, I'm Ramtin Kazemi</h1>
+</div>
+<style>
+  @keyframes textAnimation {
+    0% { transform: scale(1); opacity: 0; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 0; }
+  }
+
+  #animated-text {
+    animation: textAnimation 3s ease-in-out infinite;
+  }
+</style>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ramtinkazemi1" alt="Profile Views">
