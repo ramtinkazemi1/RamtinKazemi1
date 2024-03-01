@@ -20,8 +20,8 @@
 <br>
 
 - 🔭 I’m currently working on enhancing my coding skills and building real-world software projects to showcase my abilities to potential employers.
-- 🌱 I’m currently learning Django and Microsoft Azure.
-- 👯 I’m looking to collaborate on open-source software projects, especially those related to web development, JavaScript, and Python.
+- 🌱 I’m currently learning Django and working on getting my Security+ certification.
+- 👯 I’m looking to collaborate on open-source software projects, especially those related to backend/ios development, Django, and Python.
 - 🤔 I’m looking for help with navigating the job search process and getting insights from experienced software engineers.
 - 💬 Ask me about computer science fundamentals, algorithms, data structures, or my experiences during my computer science studies.
 - 📫 How to reach me: DM me on [Instagram](https://www.instagram.com/ramtinkazemi/) or connect with me on [LinkedIn](https://www.linkedin.com/in/ramtinkazemi1/).
